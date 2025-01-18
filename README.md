@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm 👏 Abhay Gupta!</h1>
 
-<!--
-**Abhay283/Abhay283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I'm second year student,pursuing **UG-B.Tech in Information Technology** at **GLBITM-Greater Noida**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **c++** and **data structures and algorithms**
+  
+- 📫 shoot a mail at **abhaygupta4235@gmail.com**
+  
+<h2><i>📝 Languages and Tools </i></h2>
+<p float="center">
+<img height="30" src="https://user-images.githubusercontent.com/78142604/149630531-6ebe40af-8662-4fd9-ae00-c9471026aec1.png">&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp;
+<img height="30" src="https://user-images.githubusercontent.com/78142604/149630555-2a25a1bb-e258-46f4-8a99-2ec45dc5b34e.png"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> &nbsp;
+<img height="30" src="https://user-images.githubusercontent.com/78142604/149630593-80e00fc2-1756-4a03-97e1-a9f291a1dd0c.png"> &nbsp;
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> &nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</p>
+
+## My GitHub Stats
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhay283&show_icons=true&theme=dracula" alt="Abhay283" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Abhay283&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Abhay283" /></p>
+</div>
+
