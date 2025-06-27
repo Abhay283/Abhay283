@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,heroku,pug,npm,netlify,materialui" />
   </a>
 </p>
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
