@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I'm second year student,pursuing **UG-B.Tech in Information Technology** at **GLBITM-Greater Noida**
+- 🔭 I'm Third year student,pursuing **UG-B.Tech in Information Technology** at **GLBITM-Greater Noida**
 
 - 🌱 I'm currently learning **c++** and **data structures and algorithms**
   
