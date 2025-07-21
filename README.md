@@ -1,6 +1,9 @@
-<h1 align="center">Hello, I'm 👏 Abhay Gupta!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=F73114&background=DBFF6200&width=435&lines=Hi%2C+This+is+Abhay!)](https://git.io/typing-svg)
 
-## About Me
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
+
+Hello! I'm a **sophomore** pursuing my **B.Tech** with a passion for **Information Technology**. 🧑‍💻 My journey in the world of technology is driven by a fascination for how full stack web development and blockchain development can learn and adapt, making everyday life smarter and more efficient.
+
 
 - 🔭 I'm Third year student,pursuing **UG-B.Tech in Information Technology** at **GLBITM-Greater Noida**
 
@@ -9,7 +12,8 @@
 - 📫 shoot a mail at **abhaygupta4235@gmail.com**
   
 
- - ### 💻 Tech Stack:
+ # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
@@ -45,11 +49,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
-## My GitHub Stats
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhay283&show_icons=true&theme=dracula" alt="Abhay283" />
+![](https://github-readme-stats.vercel.app/api?username=Abhay283&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhay283&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay283&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay283&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABhay283&theme=github_dark&utcOffset=5.30)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=ABhay283&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Abhay283&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Abhay283" /></p>
-</div>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&random=true&width=435&lines=%F0%9F%8F%86+GitHub+Trophies+%3A)](https://git.io/typing-svg)
+![](https://github-profile-trophy.vercel.app/?username=Abhay283&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&random=true&width=435&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote+%3A)](https://git.io/typing-svg)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=Abhay283&icon=0&color=0)](https://visitcount.itsvg.in)
 
