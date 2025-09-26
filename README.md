@@ -28,7 +28,7 @@ Hello! I'm a **sophomore** pursuing my **B.Tech** with a passion for **Informati
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,windows" />
+    <img src="https://skillicons.dev/icons?i=powershell,windows,mysql" />
   </a>
 </p>
 
